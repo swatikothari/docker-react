@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit this now: <code>src/App.js</code> and save to reload.
+          removing port 80
         </p>
         <a
           className="App-link"
